@@ -1,2 +1,2 @@
 # British_Airways_Review_Tableau
-British_Airways_Review_Tableau
+This Tableau dashboard offers a comprehensive analysis of British Airways' performance, with a focus on customer satisfaction, flight punctuality, and revenue insights. Using interactive visualizations, the dashboard highlights key metrics such as on-time arrivals, customer feedback, and delays, providing a clear view of operational strengths and areas for improvement. The project allows users to explore trends, make data-driven decisions, and assess overall airline performance. Ideal for tracking service quality and optimizing business strategies, this dashboard serves as a valuable tool for enhancing British Airways' efficiency and customer experience. 
